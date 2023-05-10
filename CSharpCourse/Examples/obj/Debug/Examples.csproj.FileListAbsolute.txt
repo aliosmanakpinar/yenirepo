@@ -1,0 +1,8 @@
+C:\Users\PTN-AliAkpinar\source\repos\CSharpCourse\Examples\bin\Debug\Examples.exe.config
+C:\Users\PTN-AliAkpinar\source\repos\CSharpCourse\Examples\bin\Debug\Examples.exe
+C:\Users\PTN-AliAkpinar\source\repos\CSharpCourse\Examples\bin\Debug\Examples.pdb
+C:\Users\PTN-AliAkpinar\source\repos\CSharpCourse\Examples\obj\Debug\Examples.csproj.AssemblyReference.cache
+C:\Users\PTN-AliAkpinar\source\repos\CSharpCourse\Examples\obj\Debug\Examples.csproj.SuggestedBindingRedirects.cache
+C:\Users\PTN-AliAkpinar\source\repos\CSharpCourse\Examples\obj\Debug\Examples.csproj.CoreCompileInputs.cache
+C:\Users\PTN-AliAkpinar\source\repos\CSharpCourse\Examples\obj\Debug\Examples.exe
+C:\Users\PTN-AliAkpinar\source\repos\CSharpCourse\Examples\obj\Debug\Examples.pdb

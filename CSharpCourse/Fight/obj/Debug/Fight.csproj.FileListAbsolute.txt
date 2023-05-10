@@ -1,0 +1,8 @@
+C:\Users\PTN-AliAkpinar\source\repos\CSharpCourse\Fight\bin\Debug\Fight.exe.config
+C:\Users\PTN-AliAkpinar\source\repos\CSharpCourse\Fight\bin\Debug\Fight.exe
+C:\Users\PTN-AliAkpinar\source\repos\CSharpCourse\Fight\bin\Debug\Fight.pdb
+C:\Users\PTN-AliAkpinar\source\repos\CSharpCourse\Fight\obj\Debug\Fight.csproj.AssemblyReference.cache
+C:\Users\PTN-AliAkpinar\source\repos\CSharpCourse\Fight\obj\Debug\Fight.csproj.SuggestedBindingRedirects.cache
+C:\Users\PTN-AliAkpinar\source\repos\CSharpCourse\Fight\obj\Debug\Fight.csproj.CoreCompileInputs.cache
+C:\Users\PTN-AliAkpinar\source\repos\CSharpCourse\Fight\obj\Debug\Fight.exe
+C:\Users\PTN-AliAkpinar\source\repos\CSharpCourse\Fight\obj\Debug\Fight.pdb

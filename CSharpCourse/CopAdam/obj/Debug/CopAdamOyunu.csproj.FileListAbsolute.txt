@@ -1,0 +1,8 @@
+C:\Users\PTN-AliAkpinar\source\repos\CSharpCourse\CopAdam\bin\Debug\CopAdam.exe.config
+C:\Users\PTN-AliAkpinar\source\repos\CSharpCourse\CopAdam\bin\Debug\CopAdam.exe
+C:\Users\PTN-AliAkpinar\source\repos\CSharpCourse\CopAdam\bin\Debug\CopAdam.pdb
+C:\Users\PTN-AliAkpinar\source\repos\CSharpCourse\CopAdam\obj\Debug\CopAdamOyunu.csproj.AssemblyReference.cache
+C:\Users\PTN-AliAkpinar\source\repos\CSharpCourse\CopAdam\obj\Debug\CopAdamOyunu.csproj.SuggestedBindingRedirects.cache
+C:\Users\PTN-AliAkpinar\source\repos\CSharpCourse\CopAdam\obj\Debug\CopAdamOyunu.csproj.CoreCompileInputs.cache
+C:\Users\PTN-AliAkpinar\source\repos\CSharpCourse\CopAdam\obj\Debug\CopAdam.exe
+C:\Users\PTN-AliAkpinar\source\repos\CSharpCourse\CopAdam\obj\Debug\CopAdam.pdb
